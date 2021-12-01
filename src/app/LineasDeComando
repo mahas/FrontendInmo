@@ -1,0 +1,15 @@
+INSTALAR ANGULAR
+    npm nstall -g @angular/cli
+
+RUN APP
+    ng serve -o  //usar -o para abrir automáticamente el navegador
+
+CREAR MÓDULOS
+    ng generate module modulos/pedidos --routing
+
+CREAR COMPONENTE
+    ng g c modulos/seguridad/identificacion  //ng generate component
+
+INSTALAR MATERIALIZE (MATERIALIZACSS.COM)
+    npm install materialize-css@next
+    
